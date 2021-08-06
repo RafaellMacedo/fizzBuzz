@@ -1,0 +1,12 @@
+{
+    "name": "rafael/fizzbuzz",
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "authors": [
+        {
+            "name": "Rafael",
+            "email": "rafaelldemacedo@gmail.com"
+        }
+    ]
+}
